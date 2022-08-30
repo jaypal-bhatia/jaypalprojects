@@ -1,8 +1,8 @@
-# Jaypal Bhatia Projects
+# Jaypal Bhatia Projects Portfolio
 A compilation of projects from my masters program in Data Science at UC Berkeley
+
 [LinkedIn Profile](https://www.linkedin.com/in/jaypal-bhatia/)
 
-Projects Portfolio
 ----------------------------------------------------------------------------------------------------------------------
 
 ## [Fun House](https://github.com/krystent2/Data_Science_Examples/blob/master/Fun_House/FunHouseGame.py)
