@@ -7,12 +7,10 @@ A compilation of projects from my masters program in Data Science at UC Berkeley
 
 ## [Fun House](https://github.com/krystent2/Data_Science_Examples/blob/master/Fun_House/FunHouseGame.py)
 
-	- Game for kids; walks player through a fun house of rooms
-
-	- Each room offers action choices with varying results, including moving to 
-	  next room or getting ejected and starting over
-
-	- Keywords: Python Script
+ Markup : * Bullet list
+          * Nested bullet
+          * Sub-nested bullet etc
+          * Bullet list item 2
 
 ![alt text](https://github.com/krystent2/Data_Science_Examples/blob/master/Fun_House/FunHouseViz.png)
 
