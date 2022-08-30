@@ -7,10 +7,10 @@ A compilation of projects from my masters program in Data Science at UC Berkeley
 
 ## [Fun House](https://github.com/krystent2/Data_Science_Examples/blob/master/Fun_House/FunHouseGame.py)
 
- Markup : * Bullet list
-          * Nested bullet
-          * Sub-nested bullet etc
-          * Bullet list item 2
+* Bullet list
+* Nested bullet
+* Sub-nested bullet etc
+* Bullet list item 2
 
 ![alt text](https://github.com/krystent2/Data_Science_Examples/blob/master/Fun_House/FunHouseViz.png)
 
