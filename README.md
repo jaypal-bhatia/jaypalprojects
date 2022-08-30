@@ -1,7 +1,7 @@
 # Jaypal Bhatia Projects
 A compilation of projects from my masters program in Data Science at UC Berkeley
 
-[LinkedIn](https://www.linkedin.com/in/jaypal-bhatia/)
+LinkedIn (https://www.linkedin.com/in/jaypal-bhatia/)
 Projects Portfolio
 ----------------------------------------------------------------------------------------------------------------------
 
