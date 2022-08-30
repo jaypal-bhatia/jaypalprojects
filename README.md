@@ -1,8 +1,8 @@
 # Jaypal Bhatia Projects Portfolio
+[Jaypal Bhatia LinkedIn Profile](https://www.linkedin.com/in/jaypal-bhatia/)
 A compilation of projects from my masters program in Data Science at UC Berkeley.
 ### Please click on the project name to view my notebook.
 
-[LinkedIn Profile](https://www.linkedin.com/in/jaypal-bhatia/)
 
 ----------------------------------------------------------------------------------------------------------------------
 
