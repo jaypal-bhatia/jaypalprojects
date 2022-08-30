@@ -11,5 +11,5 @@ A compilation of projects from my masters program in Data Science at UC Berkeley
 * Identified which days of the week experienced largest fluctuation in demand for Bay Wheels using SQL. 
 * Presented data-driven recommendations and visualizations for Bay Wheels in the San Francisco market. 
 
-### Skills Utilized: SQL
+#### Skills Utilized: SQL
 
