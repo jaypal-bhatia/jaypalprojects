@@ -5,41 +5,11 @@ A compilation of projects from my masters program in Data Science at UC Berkeley
 
 ----------------------------------------------------------------------------------------------------------------------
 
-## [Fun House](https://github.com/jaypal-bhatia/jaypalprojects/blob/main/Jaypal_SQL%20Project.ipynb)
+## [Data Analysis at Bay Wheels](https://github.com/jaypal-bhatia/jaypalprojects/blob/main/Jaypal_SQL%20Project.ipynb)
 
-* Bullet list
-* Nested bullet
-* Sub-nested bullet etc
-* Bullet list item 2
+* Used SQL to leverage data about bike rental ridership trends in San Francisco and deliver business-driven insights for Bay Wheels. 
+* Identified which days of the week experienced largest fluctuation in demand for Bay Wheels using SQL. 
+* Presented data-driven recommendations and visualizations for Bay Wheels in the San Francisco market. 
 
-![alt text](https://github.com/krystent2/Data_Science_Examples/blob/master/Fun_House/FunHouseViz.png)
+##Skills: SQL
 
-
-## [KIVA Non-funded Loans](https://github.com/krystent2/Data_Science_Examples/tree/master/KIVA)
-
-	- Predict loans that will not be funded
-
-	- Exploratory data analysis to identify key variables
-
-	- Forward-step logistic regression yielded a 76.4% accuracy score
-
-	- Keywords: Python, Logistic Regression
-
-![alt text](https://github.com/krystent2/Data_Science_Examples/blob/master/KIVA/Kiva.png)
-
-
-## [Twitter Emoji Use](https://github.com/krystent2/Data_Science_Examples/tree/master/Emojis)
-
-	- Identify top 5 emojis by UserName and in Tweets by Country
-
-	- Collect data using Twitter's API
-
-	- Use Python to extract emojis from raw data
-
-	- Create interactive visualization using JavaScript and D3 
-
-	- Keywords: Python, JavaScript/D3
-
-	- Additional Participants: Majid A., Shangyun L., Anup T.
-
-![alt text](https://github.com/krystent2/Data_Science_Examples/blob/master/Emojis/EmojiViz.png)
