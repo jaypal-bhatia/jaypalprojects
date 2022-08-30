@@ -5,7 +5,7 @@ A compilation of projects from my masters program in Data Science at UC Berkeley
 
 ----------------------------------------------------------------------------------------------------------------------
 
-## [Fun House](https://github.com/krystent2/Data_Science_Examples/blob/master/Fun_House/FunHouseGame.py)
+## [Fun House](https://github.com/jaypal-bhatia/jaypalprojects/blob/main/Jaypal_SQL%20Project.ipynb)
 
 * Bullet list
 * Nested bullet
