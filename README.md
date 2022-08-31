@@ -15,15 +15,6 @@ A compilation of projects from my masters program in Data Science at UC Berkeley
 
 #### Skills Utilized: SQL
 
-## [Digit Classification with KNN](https://github.com/jaypal-bhatia/jaypalprojects/blob/main/Project%20Notebooks/Jaypal_MLwithKNN.ipynb)
-
-* Implemented image recognition system for classifying digits.
-* Utilized K-Nearest-Neighbor ML model to explore digit classification.
-* Produced k-Nearest Neighbors models with k = 1, 3, 5, 7, and 9.
-* Created a confusion matrix 
-
-#### Skills Utilized: Python, KNN, Numpy, Pandas
-
 ## [Analyzing Sentiment of Tweets: Product Manager](https://github.com/jaypal-bhatia/jaypalprojects/blob/main/Project%20Notebooks/Jaypal_Capstone.pdf)
 
 * Drove the ideation, technical development, and launch of a product that identifies negative sentiments present in a tweet. 
@@ -32,5 +23,13 @@ A compilation of projects from my masters program in Data Science at UC Berkeley
 * Collaborated cross-functionally with machine learning engineers and UI/UX designers for development of an ML BERT model, and the creation of a user interface hosted on AWS.
 * Created a product demo and presented a minimum viable product in a campus capstone showcase. 
 
-
 #### Skills Utilized: Python, Machine Learning, Product Management
+
+## [Digit Classification with KNN](https://github.com/jaypal-bhatia/jaypalprojects/blob/main/Project%20Notebooks/Jaypal_MLwithKNN.ipynb)
+
+* Implemented image recognition system for classifying digits.
+* Utilized K-Nearest-Neighbor ML model to explore digit classification.
+* Produced k-Nearest Neighbors models with k = 1, 3, 5, 7, and 9.
+* Created a confusion matrix 
+
+#### Skills Utilized: Python, KNN, Numpy, Pandas
