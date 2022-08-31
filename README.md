@@ -24,7 +24,7 @@ A compilation of projects from my masters program in Data Science at UC Berkeley
 
 #### Skills Utilized: Python, KNN, Numpy, Pandas
 
-## [Analyzing Sentiment of Tweets: Product Manager](https://github.com/jaypal-bhatia/jaypalprojects/blob/main/Project%20Notebooks/Jaypal_MLwithKNN.ipynb)
+## [Analyzing Sentiment of Tweets: Product Manager](https://github.com/jaypal-bhatia/jaypalprojects/blob/main/Project%20Notebooks/Jaypal_Capstone.pdf)
 
 * Drove the ideation, technical development, and launch of a product that identifies negative sentiments present in a tweet. 
 * Created a PRD and product timeline to conduct analysis of competitive environment, build a ML model, evaluate success metrics, and add supplemental product features. 
