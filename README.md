@@ -2,7 +2,7 @@
 [Jaypal Bhatia LinkedIn Profile](https://www.linkedin.com/in/jaypal-bhatia/)
 
 A compilation of projects from my masters program in Data Science at UC Berkeley.
-### Please click on the project name to view my notebook.
+### Please click on the project name to view notebook/slides
 
 
 ----------------------------------------------------------------------------------------------------------------------
